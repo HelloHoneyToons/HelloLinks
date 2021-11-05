@@ -43,17 +43,23 @@ i.fa {
 #links {
     max-width: 500px;
     width: auto;
-    display: flex;
-    margin: 20px auto;
+    display: block;
+    margin: 5px auto;
 }
 
 .link {
-            background-image: url('https://i.ibb.co/PtBxhcH/Button.png');
-            background-size: cover;
-            width: 300px;
-            height: 200px;
-            display: flex;
-            flex-direction: column;
-             align-items: center;
+    display: block;
+    background-image: url('https://i.ibb.co/rZFnNZR/Hello-Honey-Thin-Button.png');
+    text-align: center;
+    margin-bottom: 4px;
+    padding: 45px;
+    text-decoration: none;
+    font-size: 1.2rem;
+    font-weight: 300;
+
+
 }
 
+.link:hover {
+    border: none;
+}
