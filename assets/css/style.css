@@ -40,6 +40,13 @@ i.fa {
     margin-right: 0.3rem;
 }
 
+#links {
+    max-width: 500px;
+    width: auto;
+    display: block;
+    margin: 20px auto;
+}
+
 .link {
             background-image: url(
 'https://media.geeksforgeeks.org/wp-content/uploads/20190314004249/sample-image2.png');
