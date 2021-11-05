@@ -61,5 +61,6 @@ i.fa {
             font-weight: 300;
             transition: all .25s cubic-bezier(.08, .59, .29, .99);
             border-radius: 10px;
+            vertical-align: middle;
 
 }
