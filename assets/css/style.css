@@ -47,4 +47,13 @@ i.fa {
             width: 300px;
             height: 200px;
             font-size: 2rem;
+            text-align: center;
+            margin-bottom: 20px;
+            padding: 17px;
+            text-decoration: none;
+            font-size: 1.2rem;
+            font-weight: 300;
+            transition: all .25s cubic-bezier(.08, .59, .29, .99);
+            border-radius: 10px;
+
 }
