@@ -2,7 +2,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600&display=swap');
 
 body {
-    background: url('../images/bg.jpg');
+    background: url('../images/bg.jpg')no-repeat center fixed;     
+    background-size: cover;
     font-family: 'Open Sans', sans-serif;
     font-weight: 600;
 }
@@ -12,7 +13,6 @@ body {
     height: 100px;
     display: block;
     margin: 10px auto;
-    border-radius: 20%;
 }
 
 #userName {
@@ -41,7 +41,7 @@ i.fa {
 }
 
 #links {
-    max-width: 500px;
+    max-width: 315px;
     width: auto;
     display: block;
     margin: 5px auto;
@@ -49,10 +49,10 @@ i.fa {
 
 .link {
     display: block;
-    background-image: url('https://i.ibb.co/rZFnNZR/Hello-Honey-Thin-Button.png');
+    background-image: url('https://i.ibb.co/Pcvmrw7/Small-Book-Hello-Honey.png');
     text-align: center;
     margin-bottom: 4px;
-    padding: 45px;
+    padding: 40px;
     text-decoration: none;
     font-size: 1.2rem;
     font-weight: 300;
