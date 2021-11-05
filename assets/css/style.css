@@ -40,13 +40,6 @@ i.fa {
     margin-right: 0.3rem;
 }
 
-#links {
-    max-width: 500px;
-    width: auto;
-    display: block;
-    margin: 20px auto;
-}
-
 .link {
             background-image: url(
 'https://media.geeksforgeeks.org/wp-content/uploads/20190314004249/sample-image2.png');
@@ -54,10 +47,4 @@ i.fa {
             width: 300px;
             height: 200px;
             font-size: 2rem;
-}
-
-.link:hover {
-    background-color: rgba(255, 255, 255, 0.3);
-    color: #000000;
-    border: none;
 }
