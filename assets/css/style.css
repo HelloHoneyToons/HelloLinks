@@ -40,6 +40,7 @@ i.fa {
     margin:  auto;
 
 }
+
 .link{
     color: #EB7000;
     display: block;
@@ -48,11 +49,12 @@ i.fa {
     margin-left: auto;
     margin-right: auto;
     margin-bottom: 8px;
-    padding: 28px;
+    padding: 30px;
     text-decoration: none;
     font-size: 1.9rem;
 }
 
 .link:hover {
- border-color: transparent;
+  background: url("https://i.ibb.co/JBbPf7J/Candy-Button18.png") no-repeat;
+  border-color: transparent;
 }
