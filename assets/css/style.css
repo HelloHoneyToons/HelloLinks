@@ -61,7 +61,7 @@ i.fa {
     text-decoration: none;
     font-size: 2.5rem;
     transition: all .25s cubic-bezier(.08,.59,.29,.99);
-    border: solid var(--accentColor) 2px;
+    border: 10px solid transparent
 }
 
 .link:hover {
