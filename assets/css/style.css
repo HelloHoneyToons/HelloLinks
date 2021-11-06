@@ -1,0 +1,58 @@
+/* Style Settings */
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600&display=swap');
+
+body {
+    background: url('../images/bg.jpg')no-repeat center fixed;     
+    background-size: cover;
+    font-family: 'qtvagaroundbold';
+    font-weight: 600;
+}
+
+@font-face {
+    font-family: 'qtvagaroundbold';
+    src: url('../fonts/qtvagaround-bold-webfont.woff2') format('woff2'),
+         url('../fonts/qtvagaround-bold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+#userPhoto {
+    width: 200px;
+    height: 200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: -25px;
+}
+
+
+
+i.fa {
+    margin-right: 0.3rem;
+}
+
+#links{
+
+    max-width: 302px;
+    width: auto;
+    display: block;
+    margin:  auto;
+
+}
+.link{
+    color: #EB7000;
+    display: block;
+    background-image: url('https://i.ibb.co/qgrsPkT/Candy-Button5.png');
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 8px;
+    padding: 28px;
+    text-decoration: none;
+    font-size: 1.9rem;
+}
+
+.link:hover {
+ border-color: transparent;
+}
