@@ -65,5 +65,5 @@ i.fa {
 }
 
 .link:hover {
-    border: none;
+    border: 10px solid transparent
 }
