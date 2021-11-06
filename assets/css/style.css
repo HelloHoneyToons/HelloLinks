@@ -52,9 +52,10 @@ i.fa {
     padding: 30px;
     text-decoration: none;
     font-size: 1.9rem;
+    outline: none;
 }
 
 .link:hover {
   background: url("https://i.ibb.co/JBbPf7J/Candy-Button18.png") no-repeat;
- outline: none;
+  outline: none;
 }
