@@ -52,7 +52,7 @@ i.fa {
 .link{
     color: #EB7000;
     display: block;
-    background-image: url('https://i.ibb.co/fpvQs3w/Candy-Button4.png');
+    background-image: url('https://i.ibb.co/fpvQs3w/Candy-Button4.png')border=0 style="border:0; text-decoration:none; outline:none";
     text-align: center;
     margin-left: auto;
     margin-right: auto;
