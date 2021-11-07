@@ -3,6 +3,7 @@
 
 
 body {
+    color: #EB7000;
     background: url('../images/bg.jpg')no-repeat center fixed;     
     background-size: cover;
     font-family: 'qtvagaroundbold';
@@ -34,7 +35,7 @@ i.fa {
 }
 
 #links{
-
+    color: #EB7000;
     max-width: 302px;
     width: auto;
     display: block;
