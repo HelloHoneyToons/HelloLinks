@@ -65,6 +65,7 @@ focus {
 
 button{
  outline: none !important;
+    -webkit-tap-highlight-color: transparent;
 }
 
--webkit-tap-highlight-color: transparent;
+
