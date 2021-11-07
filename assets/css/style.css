@@ -59,13 +59,3 @@ i.fa {
   background: url("https://i.ibb.co/JBbPf7J/Candy-Button18.png") no-repeat;
 }
 
-focus {
-    outline: 0 !important;
-}
-
-button{
- outline: none !important;
-    -webkit-tap-highlight-color: transparent;
-}
-
-
