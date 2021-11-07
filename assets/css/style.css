@@ -57,6 +57,7 @@ i.fa {
 
 .link:hover {
  background: url("https://i.ibb.co/JBbPf7J/Candy-Button18.png") no-repeat;
+ text-decoration: none !important;
  border-color: transparent;
 }
 
