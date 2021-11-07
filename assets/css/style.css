@@ -54,16 +54,10 @@ i.fa {
     margin-right: auto;
     margin-bottom: 8px;
     padding: 30px;
-    text-decoration: none;
     font-size: 1.9rem;
-    border-color: transparent;
-    outline: none;
 }
 
 
 .link:hover {
   background: url("https://i.ibb.co/JBbPf7J/Candy-Button18.png") no-repeat;
-  border-color: transparent;
-  input:focus, textarea:focus, select:focus{
-  outline: none;
 }
