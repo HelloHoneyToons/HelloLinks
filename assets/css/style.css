@@ -53,9 +53,11 @@ i.fa {
     padding: 30px;
     font-size: 1.9rem;
     text-decoration:none
+     border-color: transparent;
 }
 
 .link:hover {
   background: url("https://i.ibb.co/JBbPf7J/Candy-Button18.png") no-repeat;
+  border-color: transparent;
 }
 
