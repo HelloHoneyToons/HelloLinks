@@ -39,7 +39,6 @@ i.fa {
     width: auto;
     display: block;
     margin:  auto;
-     border-color: transparent;
 
 }
 
@@ -54,7 +53,6 @@ i.fa {
     padding: 28px;
     text-decoration: none;
     font-size: 2.5rem;
-     border-color: transparent;
 }
 
 .link:hover {
