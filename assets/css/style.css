@@ -59,3 +59,7 @@ i.fa {
  background: url("https://i.ibb.co/JBbPf7J/Candy-Button18.png") no-repeat;
  border-color: transparent;
 }
+
+*:focus {
+    outline: none;
+   }
