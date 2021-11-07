@@ -72,3 +72,5 @@ img{
     -webkit-user-select: none;
     user-select: none;
 }
+
+a:link{color:inherit;}
