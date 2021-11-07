@@ -55,6 +55,7 @@ i.fa {
     text-decoration:none
 }
 
+button:focus {outline:0;}
 
 .link:hover {
   background: url("https://i.ibb.co/JBbPf7J/Candy-Button18.png") no-repeat;
