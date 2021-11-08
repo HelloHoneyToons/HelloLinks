@@ -25,6 +25,7 @@ body {
 
 
 #links{
+    color: #EB7000;
     max-width: 302px;
     width: auto;
     display: block;
@@ -46,9 +47,4 @@ body {
 
 .link:hover {
  background: url("https://i.ibb.co/JBbPf7J/Candy-Button18.png") no-repeat;
-}
-
-a {
-   color: #EB7000;
-   -webkit-tap-highlight-color: transparent;
 }
