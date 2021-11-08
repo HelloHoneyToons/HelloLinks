@@ -1,5 +1,4 @@
 body {
-    color: #EB7000;
     background: url('../images/bg.jpg')no-repeat center fixed;     
     background-size: cover;
     font-family: 'qtvagaroundbold';
@@ -35,7 +34,6 @@ body {
 }
 
 .link{
-    color: #EB7000;
     display: block;
     background-image: url('https://i.ibb.co/sKNfP5f/Candy-Button5.png');
     text-align: center;
