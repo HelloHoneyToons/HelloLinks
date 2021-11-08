@@ -3,7 +3,6 @@ body {
     background-size: cover;
     font-family: 'qtvagaroundbold';
     font-weight: 600;
-    font-color: #D45A00;
 }
 
 @font-face {
@@ -12,7 +11,6 @@ body {
          url('../fonts/qtvagaround-bold-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
-    font-color: #D45A00;
 
 }
 
@@ -31,11 +29,9 @@ body {
     width: auto;
     display: block;
     margin:  auto;
-
 }
 
 .link{
-    color: #D45A00;
     display: block;
     background-image: url('https://i.ibb.co/sKNfP5f/Candy-Button5.png');
     text-align: center;
@@ -50,5 +46,3 @@ body {
 .link:hover {
  background: url("https://i.ibb.co/JBbPf7J/Candy-Button18.png") no-repeat;
 }
-
-
