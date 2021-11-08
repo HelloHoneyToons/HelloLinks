@@ -48,3 +48,7 @@ body {
 .link:hover {
  background: url("https://i.ibb.co/JBbPf7J/Candy-Button18.png") no-repeat;
 }
+
+a{
+-webkit-tap-highlight-color: transparent;
+}
