@@ -32,6 +32,7 @@ body {
 }
 
 .link{
+    color: #C96B15;
     display: block;
     background-image: url('https://i.ibb.co/sKNfP5f/Candy-Button5.png');
     text-align: center;
@@ -48,5 +49,5 @@ body {
 }
 
 a {
-   color: #D97820;
+   color: #C96B15;
 }
