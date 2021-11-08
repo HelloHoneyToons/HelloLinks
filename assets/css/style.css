@@ -25,7 +25,6 @@ body {
 
 
 #links{
-    color: #EB7000;
     max-width: 302px;
     width: auto;
     display: block;
@@ -34,6 +33,7 @@ body {
 }
 
 .link{
+    color: #EB7000;
     display: block;
     background-image: url('https://i.ibb.co/sKNfP5f/Candy-Button5.png');
     text-align: center;
